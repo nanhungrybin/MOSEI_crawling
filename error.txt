@@ -1,0 +1,564 @@
+ERROR: [youtube] --qXJuDtHPw: Video unavailable
+ERROR: [youtube] -AUZQgSxyPQ: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] -HeZS2-Prhc: Video unavailable
+ERROR: [youtube] -HvKLjmsO5U: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] -KCahx2qBOI: Video unavailable
+ERROR: [youtube] -RpZEe4w4fY: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] -UUCSKoHeMA: Video unavailable
+ERROR: [youtube] -UacrmKiTn4: Video unavailable
+ERROR: [youtube] -ZgjBOA1Yhw: Video unavailable. This video is not available in your country
+ERROR: [youtube] -lzEya4AM_4: Video unavailable
+ERROR: [youtube] -o_667Ny7RM: Video unavailable
+ERROR: [youtube] -qDkUB0GgYY: Video unavailable
+ERROR: [youtube] -vxjVxOeScU: Video unavailable
+ERROR: [youtube] -wMB_hJL-3o: Video unavailable
+ERROR: [youtube] 0DBfvvIVmqY: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 0Fqav67TDEw: Video unavailable
+ERROR: [youtube] 0SfejBuLgFo: Video unavailable
+ERROR: [youtube] 0Svu5BldR5A: Video unavailable
+ERROR: [youtube] 0rE8jEvQW_I: Video unavailable
+ERROR: [youtube] 0y022OlZ3W0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 13JpsLvddoY: Video unavailable
+ERROR: [youtube] 18QjfdhJEM4: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] 1RxliidxXyQ: Video unavailable
+ERROR: [youtube] 1fqNb8cfLFE: Video unavailable
+ERROR: [youtube] 24xayGF5yYA: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 2ItiGjefTRA: Video unavailable
+ERROR: [youtube] 2RDubrUjI-k: Video unavailable
+ERROR: [youtube] 2S00zYaVrtc: Video unavailable
+ERROR: [youtube] 2ahFSMFvs_c: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 2c2fhh_Dsoo: Video unavailable
+ERROR: [youtube] 2lj0BaPsJpM: Video unavailable
+ERROR: [youtube] 2mWPHvbKzL8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 2o2ljA0QD7g: Video unavailable
+ERROR: [youtube] 2ze94yo2aPo: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 34cU3HO_hEA: Video unavailable
+ERROR: [youtube] 36o2cux9kfQ: Video unavailable
+ERROR: [youtube] 3At-BKm9eYk: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] 3DOrdP4H8SA: This video has been removed for violating YouTube's Terms of Service
+ERROR: [youtube] 3OuNMjZo5wg: Video unavailable
+ERROR: [youtube] 3QcqpwQiiLs: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] 3n44IP3tCVE: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 3w9I5SBhHNc: Video unavailable
+ERROR: [youtube] 48u68AzcWvE: Video unavailable
+ERROR: [youtube] 4Kh5N9W-Jr4: Video unavailable
+ERROR: [youtube] 4Ry6M_ZfJQc: Video unavailable
+ERROR: [youtube] 4Z47qIrVil4: Video unavailable
+ERROR: [youtube] 4ZhIx2ozUIE: Video unavailable
+ERROR: [youtube] 4cFeG2ydm9A: Video unavailable
+ERROR: [youtube] 4dV3slGSc60: Video unavailable
+ERROR: [youtube] 4jTUcNlxlYA: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 4lro65JwQdc: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 4poXF3xo6Z8: Video unavailable
+ERROR: [youtube] 54CM1_GA-uw: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 5Fs_7A_V2kA: Video unavailable
+ERROR: [youtube] 5OXuBO5buF8: Video unavailable
+ERROR: [youtube] 5PqwxUYIe3c: Video unavailable
+ERROR: [youtube] 5VKMctXBN9M: Video unavailable
+ERROR: [youtube] 5eA5HpyFsIk: Video unavailable
+ERROR: [youtube] 5qxZFmIaynE: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 5tV5rZZJDCE: Video unavailable
+ERROR: [youtube] 5wpCKY2U1NE: Video unavailable
+ERROR: [youtube] 5xa0Ac2krGs: Video unavailable
+ERROR: [youtube] 6EDoVEm16fU: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 6EJHA6IDLNk: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 6RFVsOWK1m4: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 6TKaGMkO69E: Video unavailable
+ERROR: [youtube] 6ZA8I83x-oY: Video unavailable
+ERROR: [youtube] 6_ZT8beQXq8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 6gtfeIqGasE: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 6hp1SGhVYfY: Video unavailable
+ERROR: [youtube] 6qPjYvdZiLA: Video unavailable
+ERROR: [youtube] 6qmReTSoz0E: Video unavailable
+ERROR: [youtube] 6zjv1TLqfF0: Video unavailable
+ERROR: [youtube] 708sewcSXVY: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 78Ncka6CY70: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] 7Vp6Lvin1rA: Video unavailable
+ERROR: [youtube] 7eJqqvvziQo: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 7idU7rR77Ss: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] 7npCA0zoQ8Q: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 7oFimEZJQ_A: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 7vJy1zbopJ8: Video unavailable
+ERROR: [youtube] 89ZmOPOilu4: Video unavailable
+ERROR: [youtube] 8Lmqsakmw3M: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 8NPaDkOiXw4: Video unavailable
+ERROR: [youtube] 8VB6pdJTpX4: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 8eaYvALnJ0o: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 8jY_RhOS89o: Video unavailable
+ERROR: [youtube] 8lfS97s2AKc: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 8wNr-NQImFg: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 8x_nCOh6Wmc: Video unavailable
+ERROR: [youtube] 8xfW_azeNPk: Video unavailable
+ERROR: [youtube] 91y7nPEWdmQ: Video unavailable
+ERROR: [youtube] 93iGT5oueTA: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 96o9hxy64wI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 9Nhoi1jfDbY: Video unavailable
+ERROR: [youtube] 9TAGpMywQyE: Video unavailable
+ERROR: [youtube] 9VZ4cpoTFbo: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] 9ceYD_OzPz8: Video unavailable
+ERROR: [youtube] 9dFEGb_RfwE: Video unavailable
+ERROR: [youtube] A0aE2Gzym-M: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] A4dzxgHDhF0: Video unavailable
+ERROR: [youtube] A8c7q_P4jQg: Video unavailable
+ERROR: [youtube] ABSC1JNdpTw: Video unavailable
+ERROR: [youtube] AG5EY8ZaFj4: Video unavailable
+ERROR: [youtube] AGFgaKPzjMQ: Video unavailable
+ERROR: [youtube] AHU3PUztC_M: Video unavailable
+ERROR: [youtube] AHXwnFvqYDk: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] AQ4Pktv4-Gc: Video unavailable
+ERROR: [youtube] AbNmF4RTzOI: Video unavailable
+ERROR: [youtube] AggyS1coOb8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] AuPCZlKBzq8: Video unavailable
+ERROR: [youtube] Az3e1Opu0LE: Video unavailable
+ERROR: [youtube] B1PzCwfgXyU: Video unavailable
+ERROR: [youtube] B9oeT0K92wU: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] BB_VwJSg3AI: Video unavailable
+ERROR: [youtube] BXqnWuDA3H4: Video unavailable
+ERROR: [youtube] Bf5owLv3X98: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] C03473pYcRM: Video unavailable
+ERROR: [youtube] CIqRibqChDQ: Video unavailable
+ERROR: [youtube] CJGuudyvA0Y: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] CLkTjujFVKU: Video unavailable
+ERROR: [youtube] CQnwOZRgQXs: Video unavailable
+ERROR: [youtube] CZigX1ntOsI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] CfWxp5bRt2A: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] DGeBPk1op3E: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] DgO5O-oDeX8: Video unavailable
+ERROR: [youtube] DlX-WyVe-D0: Video unavailable
+ERROR: [youtube] DpZGnuj-BA8: Video unavailable
+ERROR: [youtube] Drhrzj1yhVs: Video unavailable
+ERROR: [youtube] E0g6nae4Ae4: Video unavailable
+ERROR: [youtube] E8L1Z71vKG8: Video unavailable
+ERROR: [youtube] EEUGfVTyTQM: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] EO_5o9Gup6g: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] ERnYvxojeu0: Video unavailable
+ERROR: [youtube] EmmuWoCUgXs: Video unavailable
+ERROR: [youtube] Es9MkKsMsjU: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] F5SGdvSRJmo: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] F8KE2ZhoUe4: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] FJgO-FICHlA: Video unavailable
+ERROR: [youtube] FX-YgVKC1AI: Video unavailable
+ERROR: [youtube] FcAgbLF6__s: Video unavailable
+ERROR: [youtube] Fy0Uid9afM8: Video unavailable
+ERROR: [youtube] G38DwNDQ8Cc: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] GAY5ICoVnA8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] GJyzeK-Cn-0: Video unavailable
+ERROR: [youtube] GMjQUrlMa50: Video unavailable
+ERROR: [youtube] GO0V4ZGSF28: Video unavailable
+ERROR: [youtube] GRFXnnrQaB4: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] GTGtVdAuyRc: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] GcfETVXgtg0: Video unavailable
+ERROR: [youtube] GlShH_ua_GU: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] GxWLhv-Vt78: Video unavailable
+ERROR: [youtube] Gz2qsCqWNUY: Video unavailable
+ERROR: [youtube] H1DpVwktfDQ: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] H4RysMUSQD8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] HA2AiTz-qxc: Video unavailable
+ERROR: [youtube] HD17J-FvROQ: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] HLFaW4oVP9E: Video unavailable
+ERROR: [youtube] HUH9BXVmAig: Video unavailable
+ERROR: [youtube] HXuRR2eBHHQ: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] HqtvFTa29L8: Video unavailable
+ERROR: [youtube] HuIKyKkEL0Q: Video unavailable
+ERROR: [youtube] IAubgwEiCcY: Video unavailable
+ERROR: [youtube] IHp8hd1jm6k: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] IW7IssCKgmI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] IawsOlEKRf0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] IlgnbEdOhmI: Video unavailable
+ERROR: [youtube] Itqbc2TBXWY: Video unavailable
+ERROR: [youtube] J7UduuBfnrE: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] JAbFsRxxnFo: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] JAnRCQ9A0vI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] JDgqyOkzXHw: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] JGEEA_JVriE: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] JMzilFvwNXE: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] JSlTJsUulH0: Video unavailable
+ERROR: [youtube] Ja7phs8EbWk: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] JcmqmLaL_MQ: Video unavailable. This video is no longer available due to a copyright claim by Mohammed Barry
+ERROR: [youtube] Jg2okZn6Ut8: Video unavailable
+ERROR: [youtube] JlmpDdm1A1Y: Video unavailable
+ERROR: [youtube] Jz1oMq6l-ZM: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] K1VeXZxR24U: Video unavailable
+ERROR: [youtube] K9U2TAF9DDY: Video unavailable
+ERROR: [youtube] KD0w4BrNXQg: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] KF5wgQPp2yc: Video unavailable
+ERROR: [youtube] KanWhGY33Hk: Video unavailable
+ERROR: [youtube] KmYG8zaRmOA: Video unavailable
+ERROR: [youtube] KrmVX-HANew: Video unavailable
+ERROR: [youtube] L0WUuWYNeCo: Video unavailable
+ERROR: [youtube] L2uC4_Co9uw: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] L382XZ6iZmM: Video unavailable
+ERROR: [youtube] L3b9wwZ8vRQ: Video unavailable
+ERROR: [youtube] LDKWr94J0wM: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] LUf9vbe0TcQ: Video unavailable
+ERROR: [youtube] LX2rT5C3sJs: Video unavailable
+ERROR: [youtube] LpbSYaPRTqI: Video unavailable
+ERROR: [youtube] LyOq9mOEPuk: Video unavailable
+ERROR: [youtube] MD6Tq_4VlGc: Video unavailable
+ERROR: [youtube] MLegxOZBGUc: Video unavailable
+ERROR: [youtube] MOfEl_1dh-g: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] MSmTFZ_-THM: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] MYEyQUpMe3k: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] MZoLQD83R-4: Video unavailable
+ERROR: [youtube] MnFRVJtHAeo: Video unavailable
+ERROR: [youtube] N-NnCI6U52c: Video unavailable
+ERROR: [youtube] N0GhVkCwrqw: Video unavailable
+ERROR: [youtube] N0Y7x_fJ0Nw: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] N0pKIn6VhOw: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] N1X63d_jgmw: Video unavailable
+ERROR: [youtube] N3vSaV8Ztrg: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] N7IerkWUClI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] NYuY6HVjMZQ: Video unavailable
+ERROR: [youtube] NZtIGzAzJZM: Video unavailable
+ERROR: [youtube] Na6170hd8po: Video unavailable
+ERROR: [youtube] NlrCjfHELLE: Video unavailable
+ERROR: [youtube] NoOt0oU843M: Video unavailable
+ERROR: [youtube] NoZsdSGnNpI: Video unavailable
+ERROR: [youtube] Nzh2KkaGwrE: Video unavailable
+ERROR: [youtube] O4UkHVJlIs8: Video unavailable. This video contains content from Paramount Global (CBS), who has blocked it on copyright grounds
+ERROR: [youtube] O8IJh_L0EfM: Video unavailable
+ERROR: [youtube] OBaMn1-x7jQ: Video unavailable
+ERROR: [youtube] OEOkmrKvTUo: Video unavailable
+ERROR: [youtube] OGXUtVG0Y9w: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] OIJr0voCvVQ: Video unavailable
+ERROR: [youtube] OJwO6g01qO8: Video unavailable
+ERROR: [youtube] OcqJx_cRc3Y: Video unavailable
+ERROR: [youtube] Oj3XwBBrzXc: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] Olx-sTx7HTk: Video unavailable
+ERROR: [youtube] OoOD_VBL0i0: Video unavailable
+ERROR: [youtube] Op3CnqRLD9w: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] Or-9Nc_GAq8: Video unavailable
+ERROR: [youtube] P4qxfjZlIrY: Video unavailable
+ERROR: [youtube] PORCNDRKtko: Video unavailable
+ERROR: [youtube] PRZ4VhESz1A: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] PmemTgQHagk: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] Pt-D0LUHDSc: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] PwapK9d8IGk: Video unavailable
+ERROR: [youtube] PyQrAYl1bFs: Video unavailable
+ERROR: [youtube] PybuzkS31J4: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] QI-TTqj0KnA: Video unavailable
+ERROR: [youtube] QQVRIGEUa_Q: Video unavailable
+ERROR: [youtube] QVyxySAaehE: Video unavailable
+ERROR: [youtube] QzdEjKQFisQ: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] R5a3TP-l_n4: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] RAiO_rChmdU: Video unavailable
+ERROR: [youtube] RE-LIPOFnrE: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] ROC2YI3tDsk: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] RXcI6PK37lM: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] RdExUaEIWIk: Video unavailable
+ERROR: [youtube] RmX9t_HY_dU: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] RsE2gYghZ2s: Video unavailable
+ERROR: [youtube] RvmTZVNAAuQ: Video unavailable
+ERROR: [youtube] S21ApRNQ9Ko: Video unavailable
+ERROR: [youtube] SCXp4l0CO4s: Video unavailable
+ERROR: [youtube] SD6wphlw72U: Video unavailable
+ERROR: [youtube] SMzV26l6iA0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] SNBqe_JpZC4: Video unavailable
+ERROR: [youtube] SO53x_pbou8: Video unavailable
+ERROR: [youtube] SRP5FYP71Ng: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] SSNrLu-eZiM: Video unavailable
+ERROR: [youtube] SaNXCez-9iQ: Video unavailable
+ERROR: [youtube] SmftC-VAfYQ: Video unavailable
+ERROR: [youtube] SqtZGF_f63s: Video unavailable
+ERROR: [youtube] TUY83eDK5jc: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] TVhXqAI9gyA: Video unavailable
+ERROR: [youtube] TWf0XFpXwfs: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] TXCXFYIc3Yo: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] TfBVq9oWBmM: Video unavailable
+ERROR: [youtube] TqMh7U3J4D4: Video unavailable
+ERROR: [youtube] U4-u5NZLA_w: Video unavailable
+ERROR: [youtube] U6IqFbpM-VM: Video unavailable
+ERROR: [youtube] U8Ewftg_8CI: Video unavailable
+ERROR: [youtube] UNLD7eYPzfQ: Video unavailable
+ERROR: [youtube] URP2YlSNuZ4: Video unavailable
+ERROR: [youtube] USkMa4Evv7U: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] UfLMdSGGQVw: Join this channel to get access to members-only content like this video, and other exclusive perks.
+ERROR: [youtube] UlTJmndbGHM: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] UtjenieM1Ak: Video unavailable
+ERROR: [youtube] Uu_XyXyKHAk: Video unavailable
+ERROR: [youtube] Uw1nWfSuyo8: Video unavailable
+ERROR: [youtube] UweZVaFqruU: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] VLQgw-88v4Q: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] VN1IPN1TL3Q: Video unavailable
+ERROR: [youtube] VS7xSvno7NA: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] VVtx4IDsHZA: Video unavailable
+ERROR: [youtube] VXy21GwGs8o: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] Ve-mmCM8TI0: Video unavailable
+ERROR: [youtube] VgqI1KRnDSw: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] VhKJm_jiciU: Video unavailable
+ERROR: [youtube] VugBIVwSmaI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] Vw4-ae-ucHE: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] WJM8u2I2rQ4: Video unavailable
+ERROR: [youtube] WZVfvgTeFPo: Video unavailable
+ERROR: [youtube] WbtsuXkaGeg: Video unavailable
+ERROR: [youtube] We5nTulz1Vs: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] WovurMxG2Aw: Video unavailable
+ERROR: [youtube] WygyVNL_qdE: Video unavailable
+ERROR: [youtube] X2Hs89fZ2-c: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] X6N7UEFJLNY: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] XAT2IfFFAU0: Video unavailable
+ERROR: [youtube] XDVit9ASVUg: Video unavailable
+ERROR: [youtube] XFJQJb0yaKY: Video unavailable
+ERROR: [youtube] XKyumlBmix8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] XLjpZUsFEXo: Video unavailable
+ERROR: [youtube] XQOUZhWI1B0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] Xe-keAcLge0: Video unavailable
+ERROR: [youtube] XgT2WWcXip4: Video unavailable
+ERROR: [youtube] XrNaL-MTjXg: Video unavailable
+ERROR: [youtube] YQanVofsHoE: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] Yi6Qyn4X8is: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] YjNYBBs1AZw: Video unavailable
+ERROR: [youtube] Yn8vNC41UMg: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] YodtMIsjM0c: Video unavailable
+ERROR: [youtube] YrPXbGBvqGo: Video unavailable
+ERROR: [youtube] Z3fcd1wdzr0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] ZDz8Qr-sJ3E: Video unavailable
+ERROR: [youtube] ZKZ8UjaQQT4: Video unavailable
+ERROR: [youtube] ZMAoUt0SD7E: Video unavailable
+ERROR: [youtube] ZQaGGpcIPHM: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] ZSBoSJaD2tQ: Video unavailable
+ERROR: [youtube] ZXQkyX6prBQ: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] ZdX9sUd3bAI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] ZeH7gZw94k0: Video unavailable
+ERROR: [youtube] ZfQYEa2fHGo: Video unavailable
+ERROR: [youtube] ZiM_gkdFGJk: Video unavailable
+ERROR: [youtube] ZmAIDJ_gcXM: Video unavailable
+ERROR: [youtube] Zr3psuFQoDY: Video unavailable
+ERROR: [youtube] ZsLrKF7_Oos: Video unavailable
+ERROR: [youtube] ZtuTCuh9C1M: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] _8pvMpMdGM4: Video unavailable
+ERROR: [youtube] _BtdwH6mfWg: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] _BvNNdEkhZA: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] _JcML8u5Wes: Video unavailable
+ERROR: [youtube] _OmWVs0-6UM: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] _Vp4SDp_knI: Video unavailable
+ERROR: [youtube] _v8c7iWkYz0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] aFZIvp3SgHY: Video unavailable
+ERROR: [youtube] aK5tRCXjUvU: Video unavailable
+ERROR: [youtube] aNOuoSVlunM: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] aXla94xd_AQ: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] absh1hsZeF0: Video unavailable
+ERROR: [youtube] afDJvn5nmtY: Video unavailable
+ERROR: [youtube] ak7N0BqMluI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] amem5EmRG3s: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] an_GzG40hcE: Video unavailable
+ERROR: [youtube] avW2m6VHTyg: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] axQ5CDRawO0: Video unavailable
+ERROR: [youtube] bAkUEnPoucg: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] bI3DTH2yTbM: Video unavailable
+ERROR: [youtube] bNQkb4K5DX0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] bWunvAd96zI: Video unavailable
+ERROR: [youtube] bj9e8w4vNxo: Video unavailable
+ERROR: [youtube] bkP-BNW4oMg: Video unavailable
+ERROR: [youtube] c5-L8vC6_sk: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] c5AJbOd794U: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] cHrOisasWLU: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] cMUS4nhcKCQ: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] cS3BDGNDu_8: Video unavailable
+ERROR: [youtube] cUm0TN3vXRc: Video unavailable
+ERROR: [youtube] cW-aX4dPVfk: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] cWN1bibicHc: Video unavailable
+ERROR: [youtube] c_FJuhSte8Q: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] cuR-l2qCxBc: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] cyu1HhakSaQ: Video unavailable
+ERROR: [youtube] d-Uw_uZyUys: Video unavailable
+ERROR: [youtube] d3EeIRaMbbk: Video unavailable
+ERROR: [youtube] d7Dz34-cZ74: Video unavailable
+ERROR: [youtube] dYyg91d7zjY: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] dzSv6GwfF-0: Video unavailable
+ERROR: [youtube] e0ltF8zpEcw: Video unavailable
+ERROR: [youtube] eD5cScqaf6c: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] eJwZfdtlks8: Video unavailable
+ERROR: [youtube] eOU_40p9RpA: Video unavailable
+ERROR: [youtube] eQc5uI7FKCU: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] eTn2P4wmFr4: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] eYCiRWf2NHE: Video unavailable
+ERROR: [youtube] eeN7l4R3nPc: Video unavailable
+ERROR: [youtube] erBIIKA6r5Y: Video unavailable
+ERROR: [youtube] evAswZ6m3hg: Video unavailable
+ERROR: [youtube] ewBrNsyY82Q: Video unavailable
+ERROR: [youtube] f49boM5fb8U: Video unavailable
+ERROR: [youtube] fEm9AdLNrjk: Video unavailable
+ERROR: [youtube] fMUmdlzuc94: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] fT6SrlsWV7M: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] fTKe7E_4OCQ: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] fU5AYkq0m9k: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] fVCDn6SdtVM: Video unavailable
+ERROR: [youtube] fWAKek8jA5M: Video unavailable
+ERROR: [youtube] fi7g4GoK-z4: Video unavailable
+ERROR: [youtube] fjE2EZKgQm8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] flv4by3RYVk: Video unavailable
+ERROR: [youtube] frNJdG0GkYw: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] gFAOKuqpUq4: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] gcGZp9JX_qE: Video unavailable
+ERROR: [youtube] gfHrSg3BwiQ: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] ggbV7YeSl7k: Video unavailable
+ERROR: [youtube] gm4l099casQ: Video unavailable
+ERROR: [youtube] guRD0zQC6Q0: Video unavailable
+ERROR: [youtube] h4LrwMn94ss: Video unavailable
+ERROR: [youtube] hBzw4r0kfjA: Video unavailable
+ERROR: [youtube] hF6kFQPdBjY: Video unavailable
+ERROR: [youtube] hfvmQuhqMmY: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] hhK7q30p0Jk: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] hmjfBZGGZR8: Video unavailable
+ERROR: [youtube] hnSdAbnHDy4: Video unavailable
+ERROR: [youtube] hp3nsb_eIc0: Video unavailable
+ERROR: [youtube] hrLoOAh_8LY: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] hvfaYsv7p8E: Video unavailable
+ERROR: [youtube] hytnfm-AVaA: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] iR1Os7FVGHs: Video unavailable
+ERROR: [youtube] icehEYAiimM: Video unavailable
+ERROR: [youtube] ihuGFUrzD30: Video unavailable
+ERROR: [youtube] ioupaiAuRr0: Video unavailable
+ERROR: [youtube] j0br-fFy160: Video unavailable
+ERROR: [youtube] j6R1NTrosuM: Video unavailable
+ERROR: [youtube] j9mRv472dq0: Video unavailable
+ERROR: [youtube] jICmfLeFymA: Video unavailable
+ERROR: [youtube] jLN6B0aSrW0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] jPtaz1rN6lc: Video unavailable
+ERROR: [youtube] jT3FSTBA8Us: Video unavailable
+ERROR: [youtube] jUKH63mltLE: Video unavailable
+ERROR: [youtube] jVayR0VClxQ: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] jZe-2w7pkd8: Video unavailable
+ERROR: [youtube] jbKDW9URnvM: Video unavailable
+ERROR: [youtube] jlCFLG6rKKY: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] jqutn5ou8_0: Video unavailable
+ERROR: [youtube] jrDqduyQrfo: Video unavailable
+ERROR: [youtube] k1ca_xbhohk: Video unavailable
+ERROR: [youtube] k5ZOshC2LP4: Video unavailable
+ERROR: [youtube] k8yDywC4gt8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] kI6jzM_aLGs: Video unavailable
+ERROR: [youtube] kKMfsWrigTE: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] kPch8YhNfPE: Video unavailable
+ERROR: [youtube] kSooCdVTI6E: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] kXiBdruxTvE: Video unavailable
+ERROR: [youtube] kaudsLIvYC8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] kfsO4c0Ekes: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] kk4gr5A6_Uw: Video unavailable
+ERROR: [youtube] kmAisuAFckw: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] kmgsC68hIL8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] ktblaVOnFVE: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] kyPepNmxaj8: Video unavailable
+ERROR: [youtube] lEsFI5YJGDo: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] lUNNDDsm7R8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] ltA1VF_DUSc: Video unavailable
+ERROR: [youtube] luQfWSfb1s0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] m0-DH0k115I: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] mHIvH6Nnrls: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] mRnEJOLkhp8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] mVnqP-vLpuo: Video unavailable
+ERROR: [youtube] maO6KmmgcB8: Video unavailable
+ERROR: [youtube] mgpoY1-110U: Video unavailable
+ERROR: [youtube] mjYeEikLR8I: Video unavailable
+ERROR: [youtube] mjpCK2Edsv8: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] mmg_eTDHjkk: Video unavailable
+ERROR: [youtube] mn8_HvzbN5c: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] mziQcFSsdRI: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] nAhn8-kZpM8: Video unavailable
+ERROR: [youtube] nHMHePX9WoU: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] nHP7l5zAwGA: Video unavailable
+ERROR: [youtube] npIVLL_fTf0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] o63doZKEIds: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] o6Cd9RmqdBc: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] oCsrnIomHos: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] oH9fMma8jiQ: Video unavailable
+ERROR: [youtube] oK951Y2N_k0: Video unavailable
+ERROR: [youtube] oOhxCwkZsUI: Video unavailable
+ERROR: [youtube] oQizLbmte0c: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] oZkWWCQw2Js: Video unavailable
+ERROR: [youtube] obnOnuzb-Xw: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] oecQ9yDtfx0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] ogGweZUAVtU: Video unavailable
+ERROR: [youtube] ooGB4BLK9PM: Video unavailable
+ERROR: [youtube] ou6S6fbfBWU: Video unavailable
+ERROR: [youtube] owT0_Xfu8a0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] p19Hsjx2xgI: Video unavailable
+ERROR: [youtube] pFh-SLxltms: Video unavailable
+ERROR: [youtube] pI5Kng_GuLE: Video unavailable
+ERROR: [youtube] pKXaKinzTmY: Video unavailable
+ERROR: [youtube] pkH2TfFN-6s: Video unavailable
+ERROR: [youtube] plsot5mFAtQ: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] po5jCjnxW1w: Video unavailable
+ERROR: [youtube] q-0gu48ClF4: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] q17gSr9kNww: Video unavailable
+ERROR: [youtube] q3QUybiOYeU: Video unavailable
+ERROR: [youtube] qEkFReBuwxc: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] qJh6x4wmmh8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] qXisb7w9LjM: Video unavailable
+ERROR: [youtube] qY1sXq-YCHs: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] qYJtbgLqizk: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] qd6YuFGcBGk: Video unavailable
+ERROR: [youtube] qed3medhsj4: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] qgC8_emxSIU: Video unavailable
+ERROR: [youtube] qmMSumMloAs: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] qszy_WSRFUM: Video unavailable
+ERROR: [youtube] qvIhzmujTi8: Video unavailable
+ERROR: [youtube] r13W4H8ZhqI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] r5ijC2W9ddk: Video unavailable
+ERROR: [youtube] r9tgDqXEcuc: Video unavailable
+ERROR: [youtube] rFHIApgUtoI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] rNXM3avNBKk: Video unavailable
+ERROR: [youtube] rWjPSlzUc-8: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] rv1gp0wEhI0: Video unavailable
+ERROR: [youtube] rzsk_IvI7bQ: Video unavailable
+ERROR: [youtube] s0PUurm1ONo: Video unavailable
+ERROR: [youtube] sC1NvtirijU: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] slLRsFFiiRc: Video unavailable
+ERROR: [youtube] sw-smuVRByI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] szic2IB9HB4: Video unavailable
+ERROR: [youtube] t0Wi5Nb6kbI: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] tC2KicUHB9Q: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] tQ-CIfgj-Js: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] tW5xAWDnbGU: Video unavailable
+ERROR: [youtube] tXQpm-nKxNA: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] tnhRxo-g3Xw: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] u9I5WD3Nglk: Video unavailable
+ERROR: [youtube] u9ZV8jb_-U0: Video unavailable
+ERROR: [youtube] uN0d3ZOkDp8: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] uTWeng4h5eM: Video unavailable
+ERROR: [youtube] uU_3tbZ1zG8: Video unavailable
+ERROR: [youtube] v2DFe9X-jCY: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] v3l56fl6aJM: Video unavailable
+ERROR: [youtube] v5AAvrZuR2U: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] v73dbqOUoXQ: Video unavailable
+ERROR: [youtube] v9GshyXtiWg: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] vA68fTqDars: Video unavailable
+ERROR: [youtube] vHzbn_YW76s: Video unavailable
+ERROR: [youtube] vM7m581tHn0: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] vbr3EA8cJTI: Video unavailable
+ERROR: [youtube] w8TXP0iz29A: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] wF8980oGklk: Video unavailable
+ERROR: [youtube] wHeZHLv9wGI: Video unavailable
+ERROR: [youtube] wI7DDCRh4Nw: Video unavailable
+ERROR: [youtube] wOjnqud5GBA: Video unavailable
+ERROR: [youtube] wVdoIjg3ZFQ: Video unavailable
+ERROR: [youtube] wd-LTpCtAzw: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] wfLrS6CdFs4: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] wk5lFk5kFjY: Video unavailable
+ERROR: [youtube] x0rLwBIocuI: Video unavailable
+ERROR: [youtube] x266rUJQC_8: Video unavailable
+ERROR: [youtube] x2lOwQaAn4g: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] xUgAP84vsg4: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] xaSf1d13WoY: Video unavailable
+ERROR: [youtube] xfeASyC6PPg: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] xiRUWSUrGSg: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] xmLJHru6Z1M: Video unavailable
+ERROR: [youtube] xvnFF0FiyS4: Video unavailable
+ERROR: [youtube] y5JdqGL5DRc: Video unavailable
+ERROR: [youtube] yG3wpvLUQcg: Video unavailable
+ERROR: [youtube] yXE_XZUb8qE: Video unavailable
+ERROR: [youtube] yZWH2P-h0jo: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] yp6Gd2NPwOU: Private video. Sign in if you've been granted access to this video
+ERROR: [youtube] ysGFcG_PI5I: Video unavailable
+ERROR: [youtube] yuwvVTnsDjc: Video unavailable
+ERROR: [youtube] yxZydS2qHzs: Video unavailable
+ERROR: [youtube] z8bWG2z-bMM: Video unavailable. This video is no longer available because the uploader has closed their YouTube account.
+ERROR: [youtube] zFTuwjr3xq0: Video unavailable
+ERROR: [youtube] zJWmmDk9fCE: Video unavailable
+ERROR: [youtube] zU2_X9lIcUM: Video unavailable
+ERROR: [youtube] zaTyjiyrHnk: Video unavailable
+ERROR: [youtube] zeQKU2L173M: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
+ERROR: [youtube] zoPOeViAdOo: Video unavailable
+ERROR: [youtube] zsRTbbKlsEg: Video unavailable
+ERROR: [youtube] zv0Jl4TIQDc: Video unavailable
+ERROR: [youtube] zwRBZisdpQ0: Private video. Sign in if you've been granted access to this video
