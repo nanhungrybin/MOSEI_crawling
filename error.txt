@@ -459,7 +459,6 @@ ERROR: [youtube] nHMHePX9WoU: Video unavailable. This video is no longer availab
 ERROR: [youtube] nHP7l5zAwGA: Video unavailable
 ERROR: [youtube] npIVLL_fTf0: Private video. Sign in if you've been granted access to this video
 ERROR: [youtube] o63doZKEIds: Private video. Sign in if you've been granted access to this video
-ERROR: [youtube] o6Cd9RmqdBc: Video unavailable. This video is no longer available because the YouTube account associated with this video has been terminated.
 ERROR: [youtube] oCsrnIomHos: Private video. Sign in if you've been granted access to this video
 ERROR: [youtube] oH9fMma8jiQ: Video unavailable
 ERROR: [youtube] oK951Y2N_k0: Video unavailable
