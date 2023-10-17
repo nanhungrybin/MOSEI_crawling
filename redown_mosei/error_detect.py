@@ -11,7 +11,6 @@ from queue import Queue
 log_filename = '10-17_log.log'
 logging.basicConfig(filename=log_filename, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-
 vid_error = []
 
 # 프레임 간의 최대 차이를 설정
