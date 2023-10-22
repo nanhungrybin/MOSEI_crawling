@@ -3,6 +3,10 @@
 #### 감정인식을 위한 CMU Multimodal Opinion Sentiment and Emotion Intensity (CMU-MOSEI) 데이터셋을 구축하기 위한 코드
 
 CMU Multimodal Opinion Sentiment and Emotion Intensity (CMU-MOSEI) is the largest dataset of sentence level sentiment analysis and emotion recognition in online videos. CMU-MOSEI contains more than 65 hours of annotated video from more than 1000 speakers and 250 topics. http://multicomp.cs.cmu.edu/resources/cmu-mosei-dataset/
+
+#### paper : Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph https://aclanthology.org/P18-1208.pdf
+
+
 ![image](https://github.com/nanhungrybin/MOSEI_crawling/assets/97181397/3d0eaee0-fb5f-4d5e-9bcd-5051634765c0)
 
 
