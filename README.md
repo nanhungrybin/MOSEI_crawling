@@ -62,6 +62,11 @@ CMU Multimodal Opinion Sentiment and Emotion Intensity (CMU-MOSEI) is the larges
 ![image](https://github.com/nanhungrybin/MOSEI_crawling/assets/97181397/c68f72c2-7292-46d0-b056-6bef5089eee7)
 
 ## 📁 WHY MOSEI 📁 왜 MOSEI는 중요한가? 왜 직접 수집해야하는가 ?
+CMU에서는 원본 이미지가 아닌 피쳐 임베딩 값으로만 제공함
+
+하지만 우리는 감정인식기 모델의 성능을 향상 시키기 위해 다양한 시도를 해야 하기 때문에 원본 데이터가 필요함
+
+따라서 CMU에서 제공하는 동영상 링크 annotation 파일을 기반으로 직접 데이터셋을 수집하고자 함
 
 
 
