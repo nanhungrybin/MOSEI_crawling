@@ -42,14 +42,14 @@ CMU Multimodal Opinion Sentiment and Emotion Intensity (CMU-MOSEI) is the larges
 
 
 
-#1. Frame freeze 영상 / 비디오 리더기 에러 및 손상된 파일
+#### 1. Frame freeze 영상 / 비디오 리더기 에러 및 손상된 파일
 
 - ID 검출
 
 - 세그먼트 별이 아닌 전체 영상 다운로드 후 파싱
 
 
-#2. 사람 얼굴이 없는 동영상 
+#### 2. 사람 얼굴이 없는 동영상 
 
 - Face Detecter Model인 RETINAFACE를 사용해 검출 [https://github.com/nanhungrybin/](https://github.com/nanhungrybin/Retinaface_torch)
 
